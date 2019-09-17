@@ -9,7 +9,7 @@ To solve this problem, we followed these following step, contain:
 1. With using the _**BankAccount** class_ that we created before, we also added some properties that required, include:  
 * Deposit (decimal amount): void
 * Withdrawl (decimal amout): void  
-  According the source code that shown as the below figure.
+  According the source code that shown as the below figure.  
   ![Imgur](https://i.imgur.com/lUFzv4k.png)
   > _**Note:**_  
   > In this source code we declare _**amount**_ variable is decimal. In _**Deposit**_ if the value of a mount is greater then 0, the balance will plus amount. Otherwise, in _**Withdrawl**_, if the value of amount is smaller or equal the value of balance, the value of balance equal the value of amount, else the value of balance equal the value of balance minus the value of amount.  
